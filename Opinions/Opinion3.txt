@@ -1,0 +1,19 @@
+                   
+                    
+{partyA_}Zenith Elecs. Corp.{/partyA_} v. {partyB_}ExZec Inc.{/partyB_}
+                    
+{partyA_}ZENITH ELECTRONICS CORPORATION{/partyA_}, Plaintiff, v. {partyB_}EXZEC INC.{/partyB_}, TERENCE J. KNOWLES, and CARROLL TOUCH, INC., Defendants. {partyB_}EXZEC INC.{/partyB_} and CARROLL TOUCH, INC., Counter-Plaintiffs, v. {partyA_}ZENITH ELECTRONICS CORPORATION{/partyA_}, Counter-Defendant.
+
+For {partyA_}ZENITH ELECT CORPORATION{/partyA_}, a Delaware corporation, plaintiff: John M. Calimafde, {firm1_}Hopgood, Calinafde, Kalil, Blaustein & Judlowe{/firm1_}, New York, NY. Joel S. Feldman, {firm2_}Sachnoff & Weaver, Ltd.{/firm2_}, Chicago, IL.
+
+For {partyB_}EXZEC INCORPORATED{/partyB_}, TERANCE J KNOWLES, defendants: Jean Dudek Kuelper, {firm3_}McAndrews, Held & Malloy, P.C.{/firm3_}, Chicago, IL. Robert Edward Browne, Jeannine Marie Pisoni, Thomas C. McDonough, Mark R. Galis, Vedder, Price, {firm4_}Kaufman & Kammholz{/firm4_}, Chicago, IL. For {partyC_}CARROLL TOUCH INC{/partyC_}, defendant: Jerold A. Jacover, James P. Naughton, Steven F. Borsand, Meredith Leigh Martin, {firm5_}Willian, Brinks, Olds, Hofer, Gilson & Lione, Ltd.{/firm5_}, Chicago, IL.
+
+For {partyB_}EXZEC INCORPORATED{/partyB_}, counter-claimant: Jean Dudek Kuelper, {firm3_}McAndrews, Held & Malloy, P.C.{/firm3_}, Chicago, IL. Robert Edward Browne, Jeannine Marie Pisoni, Thomas C. McDonough, Mark R. Galis, Vedder, Price, {firm4_}Kaufman & Kammholz{/firm4_}, Chicago, IL. For {partyC_}CARROLL TOUCH INC{/partyC_}, counter-claimant: Jerold A. Jacover, James P. Naughton, Meredith Leigh Martin, {firm5_}Willian, Brinks, Olds, Hofer, Gilson & Lione, Ltd.{/firm5_}, Chicago, IL.
+
+For {partyA_}ZENITH ELECT CORPORATION{/partyA_}, counter-defendant: John M. Calimafde, {firm1_}Hopgood, Calinafde, Kalil, Blaustein & Judlowe{/firm1_}, New York, NY. Joel S. Feldman, {firm2_}Sachnoff & Weaver, Ltd.{/firm2_}, Chicago, IL.                                
+                    
+***
+                    
+Opinion
+
+This matter is before the court on the motion of defendants, {partyB_}ExZec, Inc.{/partyB_} (hereafter "{partyB_}ExZec{/{partyB_}") and Terence J. Knowles, President of {partyB_}ExZec{/partyB_} (hereafter Knowles") to join Elo Touch Systems, Inc. (hereafter "Elo Touch") as a necessary party to this action, pursuant to Federal Rule of Civil Procedure 19(b). {partyC_}Carroll Touch, Inc.{/partyC_} also filed a motion to join Elo Touch as a necessary party and in the alternative, if joinder is not granted, pursuant  [*176]  to Federal Rule of Civil Procedure 12(b)(7) and 19(b) to dismiss for failure to join a necessary and indispensable party. Plaintiff, {partyA_}Zenith Electronics Corporation{/partyA_} (hereafter "{partyA_}Zenith{/partyA_}") filed this action as the purported owner by assignment of the entire right, title and interest in and to the patents in question. The patents in question are United States Patent No. 4,644,100, entitled "Surface acoustic wave touch panel system" (hereafter "SAW"), issued on February 17, 1987; United States Patent No. 4,700,176, entitled "Touch control arrangement for graphic display apparatus", issued on October 13, 1987; and United States Patent No. RE 33, 151, entitled "Touch  [**2]  control system for controllable apparatus", issued on January 23, 1990 (hereafter patents in suit).

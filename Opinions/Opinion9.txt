@@ -1,0 +1,15 @@
+                   
+                    
+{partyA_}Sharp Electronics Corp.{/partyA_} v. {partyB_}Branded Products, Inc{/partyB_}
+                    
+{firm1_}Wender, Murase & White{/firm1_}, By: Lance Gotthoffer, Peter A. Dankin, New York, New York, for Petitioner.
+
+{firm2_}Law Offices of Stephen P. Cunningham{/firm2_}, By: Geoffrey H. Lewis, New York, New York, {firm3_}Shaddox, Compere, Gorham & Good{/firm3_}, By: Jo Chris Lopez, San Antonio, Texas, for Respondent.                                
+                    
+***
+                    
+Opinion
+
+Petitioner {partyA_}Sharp Electronics Corporation{/partyA_} ("{partyA_}Sharp Electronics{/partyA_}") seeks an order to compel respondent {partyB_}Branded Products, Inc.{/partyB_} ("{partyB_}Branded{/partyB_}") to arbitrate in New York City disputes arising from a distributorship agreement between the two parties. It also seeks to stay a Texas court proceeding between the two parties which was commenced by {partyB_}Branded{/partyB_}. A third party, {partyC_}Charles B. Allen, Inc.{/partyC_} ("{partyC_}Allen{/partyC_}"), is also a defendant in the Texas proceeding. {partyA_}Sharp Electronics{/partyA_} is a New York corporation with its principal place of business in New Jersey. {partyB_}Branded{/partyB_} is a Delaware corporation with its principal place of business in Texas. {partyC_}Allen{/partyC_} is a Texas corporation with its principal place of business in that state.
+
+Respondent {partyB_}Branded{/partyB_} has moved to dismiss the petition on grounds that this court lacks subject matter jurisdiction. It also seeks to stay arbitration on the grounds that [**2]  an amended complaint in the Texas action eliminates all contract disputes and the contract requiring arbitration was a contract of adhesion. For the following reasons, respondent's motions to dismiss the petition and to stay arbitration are denied and petitioner's request for an order compelling arbitration is granted.

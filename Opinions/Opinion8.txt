@@ -1,0 +1,48 @@
+https://www.ravellaw.com/opinions/15f04108ec8ad98c0056cc75b92f6906
+
+{partyA_}BARKER-HATCH{/partyA_} v. {partyB_}VIEJAS GROUP BARON LONG CAPITAN{/partyB_}
+                    
+{partyA_}Jacquelin BARKER-HATCH{/partyA_} and {partyC_}John Hatch{/partyC_}, Plaintiff, v. {partyB_}VIEJAS GROUP BARON LONG CAPITAN GRANDE BAND OF DIGUENO MISSION INDIANS OF THE VIEJAS GROUP RESERVATION{/partyB_}, CALIFORNIA, Defendant.
+                    
+83 F.Supp.2d 1155
+United States District Court, S.D. California. February 8, 2000.
+                    
+Joseph A. Howell, {firm1_}Law Offices of Joseph A. Howell{/firm1_}, La Jolla, CA, for Plaintiffs. Art Bunce, {firm2_}Law Offices of Art Bunce{/firm2_\}, Escondido, CA, for Defendant.
+
+** *
+ORDER {outcome1_}GRANTING{/outcome1_} DEFENDANT'S {activemo1_}MOTION TO DISMISS{/activemo1_}
+
+MOSKOWITZ, District Judge.
+                    
+Defendant, the {partyB_}Viejas Group Baron Long Capitan Grande Band of Digueno Mission Indians of the Viejas Group Reservation{/partyB_} ("{partyB_}Viejas Group{/partyB_}"), {activemo1_}moves to dismiss{/activemo1_} plaintiffs' suit for damages sustained when {partyA_}Jacquelin Barker-Hatch{/partyA_} slipped and fell on a wet walkway on defendant's property. Defendant argues that, as a federally-recognized Indian tribe, it is immune from suit under the doctrine of sovereign immunity. For the reasons expressed below, the Court need not reach the issue of sovereign immunity because it lacks subject matter to resolve the dispute.
+                    
+It is axiomatic that federal judicial power extends only to cases and controversies over which a court has subject matter jurisdiction. See Fed.R.Civ.P. 12(b)(1); Kokkonen v. Guardian Life Ins. Co., 511 U.S. 375, 114 S.Ct. 1673, 128 L.Ed.2d 391 (1994). Although neither of the parties broached the issue of subject matter jurisdiction, it is incumbent on the Court to address this threshold question. See National Distribution Agency v. Nationwide Mut. Ins. Co., 117 F.3d 432, 433 (9th Cir. 1997). Plaintiffs allege in their complaint that, at the time of the incident, they were residents of California. Plaintiffs further allege that defendant "is an Indian tribe that is not incorporated and is not a citizen of the State of California. There is diversity of citizenship which is basis for federal jurisdiction."
+                    
+The Court agrees that defendant is not a citizen of the State of California, and it is clear that defendant is not a foreign state. See Stock West, Inc. v. Confederated Tribes, 873 F.2d 1221, 1226 (9th Cir.1989) (citing Cherokee Nation v. Georgia, 30 U.S. (5 Pet.) 1, 20, 8 L.Ed. 25 (1831) for the principle that Indian tribes are not foreign states). The Court is therefore left with the question: What is the citizenship of an Indian tribe for purposes of diversity jurisdiction?
+                    
+Beginning with the plain language of the statute, 28 U.S.C. § 1332 provides, in pertinent part:
+
+(a) The district courts shall have original jurisdiction of civil actions where the matter in controversy exceeds the sum or value of $75,000, exclusive of interest and costs, and is between —
+                    
+(1) citizens of different States;
+(2) citizens of a State and citizens or subjects of a foreign state;
+                    
+(3) citizens of different States and in which citizens or subjects of a foreign state are additional parties; and
+                    
+(4) a foreign state, defined in section 1603(a) of this title, as plaintiff and citizens of a State or of different States.
+                    
+28 U.S.C. § 1332(a). A corporation is deemed to be a citizen of its state of incorporation and its principal place of business. Id. § 1332(c)(1). When applying principles of diversity, the Court must strictly construe the statute. See Thomson v. Gaskill, 315 U.S. 442, 446, 62 S.Ct. 673, 86 L.Ed. 951 (1942); Matimak Trading Co. v. Khalily, 118 F.3d 76, 87 (2d Cir.1997), cert. denied, 522 U.S. 1091, 118 S.Ct. 883, 139 L.Ed.2d 871 (1998).
+                    
+Courts which have addressed the citizenship of Indian tribes have held that [83 F.Supp.2d 1157] tribes are not citizens of any state for purposes of diversity jurisdiction. Romanella v. Hayward, 114 F.3d 15, 16 (2d Cir.1997) (Indian tribes are not citizens of any state for purposes of diversity jurisdiction); Gaines v. Ski Apache, 8 F.3d 726, 729 (10th Cir.1993) (same); Weeks Constr., Inc. v. Oglala Sioux Housing Auth., 797 F.2d 668, 673 n. 5 (8th Cir.1986) (same); Standing Rock Sioux Indian Tribe v. Dorgan, 505 F.2d 1135, 1140 (8th Cir.1974) (same); Oneida Indian Nation v. Oneida County, 464 F.2d 916, 922-23 (2d Cir. 1972), rev'd on other grounds, 414 U.S. 661, 94 S.Ct. 772, 39 L.Ed.2d 73 (1974); Calumet Gaming Group-Kansas v. Kickapoo Tribe, 987 F.Supp. 1321, 1324-25 (D.Kan.1997) (same); Whiteco Metrocom Div. v. Yankton Sioux Tribe, 902 F.Supp. 199 (D.S.D.1995) (same). If, however, an Indian tribe incorporates under either the Indian Reorganization Act, 25 U.S.C. § 477, or its own tribal laws, then the rules governing the citizenship of corporations apply. See Stock West, 873 F.2d at 1223 n. 3; see also Gaines, 8 F.3d at 729-30 (noting that a tribe cannot take on corporation status simply because it refers to itself as a corporation in its own constitution).
+                    
+In this case, plaintiffs concede that the {partyB_}Viejas Group{/partyB_} is an unincorporated Indian tribe. Although the Ninth Circuit has yet to decide the citizenship of unincorporated Indian tribes, the Court is guided by the conclusions of other courts and likewise holds that Indian tribes are not citizens of any state for purposes of diversity jurisdiction. Even if the {partyB_}Viejas Group{/partyB_} could be considered a citizen of the state in which it is located, i.e., California, nonetheless, the Court would be unable to exercise diversity jurisdiction because the plaintiffs are California citizens as well. See e.g. Ninigret Development Corp. v. Narragansett Indian Wetuomuck Housing Auth., 32 F.Supp.2d 497, 502 (D.R.I. 1999) (finding no diversity jurisdiction where citizen of Rhode Island sued agency of Indian tribe located in Rhode Island). The Court notes further that plaintiffs have failed to allege federal question jurisdiction under 28 U.S.C. § 1331, and there are no facts in the complaint from which the Court can infer a federal claim.1
+                    
+Consequently, the Court's lack of subject matter jurisdiction over this case renders the issue of sovereign immunity moot. Under the doctrine of sovereign immunity, an Indian tribe is subject to suit only when Congress has authorized the suit or when the tribe has waived its immunity. Kiowa Tribe v. Manufacturing Technologies, Inc., 523 U.S. 751, 118 S.Ct. 1700, 1702, 140 L.Ed.2d 981 (1998). The Court need not reach the issue of immunity, however, as it lacks subject matter jurisdiction, which the parties cannot waive.
+                    
+Plaintiffs assert that dismissal of this case will leave them without a forum to litigate their claims. Whether or not the California courts have jurisdiction over this matter is not an issue before the Court today. Undoubtedly, however, this Court is not the appropriate forum for plaintiffs to litigate their claims. As the {partyB_}Viejas Group{/partyB_} is not a citizen of any state, it cannot be sued in federal court under diversity jurisdiction. Defendant's {activemo1_}motion to dismiss{/activemo1_} for lack of jurisdiction [4-1] is therefore {outcome1_}GRANTED{/outcome1_}.
+
+IT IS SO ORDERED.
+                    
+** *
+
+1. Federal question jurisdiction does not exist merely because an Indian is a party. See Gila River Indian Community v. Henningson, Durham & Richardson, 626 F.2d 708, 715 (9th Cir.1980), cert. denied, 451 U.S. 911, 101 S.Ct. 1983, 68 L.Ed.2d 301 (1981); see also Martinez v. Southern Ute Tribe, 249 F.2d 915, 917 (10th Cir.1957), cert. denied, 356 U.S. 960, 78 S.Ct. 998, 2 L.Ed.2d 1067 (1958).

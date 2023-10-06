@@ -1,0 +1,27 @@
+                   
+                    
+Jaffe v. {partyA_}Samsung Elecs. Co.{/partyA_}
+                    
+IN RE {partyB_}QIMONDA AG{/partyB_}, Debtor in a Foreign Proceeding. MICHAEL JAFFÉ, Appellant, v. {partyA_}SAMSUNG ELECTRONICS CO., LTD.{/partyA_}, et al., Appellees.
+
+For Michael Jaffe, Dr., Insolvency Administrator, Appellant: Gilbert David Dean, II, {firm1_}Cole Schotz Meisel Forman & Leonard PA{/firm1_}, Baltimore, MD.
+
+For {partyA_}Samsung Electronics Co., Ltd.{/partyA_}, {partyC_}Infineon Technologies AG{/partyC_}, {partyD_}International Business Machines Corp.{/partyD_}, Appellees: Stephen E. Leach, {firm2_}Leach Travell Britt PC{/firm2_}, McLean, VA.
+
+For {partyE_}Hynix Semiconductor, Inc.{/partyE_}, Appellee: Lawrence Allen Katz, {firm3_}Venable LLP{/firm3_}, Vienna, VA.
+
+For {partyF_}Intel Corporation{/partyF_}, Appellee: John Kuropatkin Roche, {firm4_}Perkins Coie LLP{/firm4_}, Washington, DC.
+
+For {partyG_}Nanya Technology Corporation{/partyG_}, Appellee: Guy Sterling Neal, {firm5_}Sidley Austin Brown & Wood LLP{/firm5_}, Washington, DC.
+
+For {partyH_}Micron Technology, Inc.{/partyH_}, Appellee: Miles Jarrad Wright, {firm6_}Weil Gotshal & Manges LLP{/firm6_}, Washington, DC.
+
+                            
+                    
+***
+                    
+Opinion
+
+Debtor {partyB_}Qimonda AG{/partyB_} (hereinafter "{partyB_}Qimonda{/partyB_}") is a German company involved in the design, manufacture, and sale of semiconductor products. {partyB_}Qimonda{/partyB_} claims to hold over 10,000 patents, of which at least 4,000 are U.S. patents, as well as over 1,000 pending U.S. patent applications. These patents are {partyB_}Qimonda{/partyB_}'s most valuable remaining asset. In re Qimonda AG, 462 B.R. 165, 168-169 (Bankr. E.D. Va. 2011).
+
+Appellees are {partyA_}Samsung Electronics{/partyA_}  [**3] Co., Ltd. ("{partyA_}Samsung{/partyA_}"), {partyC_}Infineon Technologies AG{/partyC_} ("{partyC_}Infineon{/partyC_}"), {partyD_}International Business Machines Corp.{/partyD_} ("{partyD_}IBM{/partyD_}"), {partyE_}Hynix Semiconductor, Inc.{/partyE_} ("{partyE_}Hynix{/partyE_}"), {partyF_}Intel Corporation{/partyF_} ("{partyF_}Intel{/partyF_}"), {partyG_}Nanya Technology Corporation{/partyG_} ("{partyG_}Nanya{/partyG_}"), and {partyH_}Micron Technology, Inc.{/partyH_} ("{partyH_}Micron{/partyH_}") (collectively referred to as "the Objectors"). The Objectors are international electronic companies, some headquartered in the United States and some abroad, that manufacture and sell semiconductor products. The Objectors entered into various cross-licensing and joint venture agreements with {partyB_}Qimonda{/partyB_} or its predecessor companies and hold licensing rights to U.S. and international patents held by {partyB_}Qimonda{/partyB_}. Pursuant to these agreements, {partyB_}Qimonda{/partyB_} and appellants have perpetually and irrevocably cross-licensed lens of thousands of patents. See In re {partyB_}Qimonda AG{/partyB_} Bankr. Litig., 433 B.R. 547, 552 (E.D. Va. 2010).
